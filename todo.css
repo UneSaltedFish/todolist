@@ -1,0 +1,22 @@
+#firstline, #lastline {
+  text-align: center;
+}
+#txt {
+  border:none;
+  border-bottom:3px solid #8842d5;
+}
+button {
+  border-radius:3px;
+  background-color: white;
+  border-color: #F0F8FF;
+}
+#checkbox {
+  text-align: 15px;
+  color: brown;
+  border: 2px dashed black;
+  padding-left:45%;
+  background: #F0F8FF;
+  background-clip: border-box;
+
+
+}
